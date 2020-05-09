@@ -2,9 +2,9 @@
 
 ## P6 du parcours DA Python d'OpenClassRoom
 
-##Concevez la solution technique d’un système de gestion de pizzeria
+## Concevez la solution technique d’un système de gestion de pizzeria
 <br />
-###Travail demandé
+### Travail demandé
 En tant qu’analyste-programmeur, votre travail consiste, à ce stade, à définir le domaine fonctionnel et à concevoir l’architecture technique de la solution répondant aux besoins du client, c’est-à-dire :
 
   * Modéliser les objets du domaine fonctionnel
@@ -36,11 +36,11 @@ __Les outils utilisés pour ce projet :__
 
 #### Livrables :  
 [PGESTpizza_01_Introduction.pdf](/Livrables/PGESTpizza_01_Introduction.pdf) - Slide d'introduction  
-[PGESTpizza_02_spectechniques.pdf](/Livrables/ 	PGESTpizza_02_spectechniques.pdf) - Specs Techniques  
+[PGESTpizza_02_spectechniques.pdf](/Livrables/PGESTpizza_02_spectechniques.pdf) - Specs Techniques  
 [PGESTPizza_03_Modeledonnees.png](/Livrables/PGESTPizza_03_Modeledonnees.png) - Modèle Physique de Données  
 [PGESTpizza_04_drop_tables.sql](/Livrables/PGESTpizza_04_drop_tables.sql) - Drop des tables base SQL  
-[PGESTpizza_05_create_tables.sql](/Livrables/ 	PGESTpizza_05_create_tables.sql) - Création des tables  
-[PGESTpizza_06_fill_tables.sql](/Livrables/ 	PGESTpizza_06_fill_tables.sql) - Remplissages des tables  
+[PGESTpizza_05_create_tables.sql](/Livrables/PGESTpizza_05_create_tables.sql) - Création des tables  
+[PGESTpizza_06_fill_tables.sql](/Livrables/PGESTpizza_06_fill_tables.sql) - Remplissages des tables  
 [PGESTpizza_07_tests.sql](/Livrables/PGESTpizza_07_tests.sql) - Ordres pour tester base do données  
 
 #### Demo :  
