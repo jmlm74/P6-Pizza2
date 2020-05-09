@@ -1,6 +1,6 @@
 <center><h1> P6 - Pizza2 </h1></center>
 
-# P6 du parcours DA Python d'OpenClassRoom
+# <center>P6 du parcours DA Python d'OpenClassRoom</center>
   
 ## Concevez la solution technique d’un système de gestion de pizzeria
 ### Travail demandé  
@@ -45,7 +45,7 @@ __Les outils utilisés pour ce projet :__
 #### Demo :  
 Une version python de démo a été faite.  Ce script reprend tous les ordres SQL du fichier de test avec un menu et un resultat mis en tableau  
 Version python :  >= 3.7  
-__Requirements :__ 
+__Requirements :__  
 entrypoints==0.3  
 flake8==3.7.9  
 mccabe==0.6.1  
